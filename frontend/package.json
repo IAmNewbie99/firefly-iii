@@ -12,7 +12,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.2",
     "@quasar/extras": "^1.15.9",
-    "apexcharts": "^3.32.1",
+    "apexcharts": "^3.36.3",
     "axios": "^0.21.1",
     "axios-cache-adapter": "^2.7.3",
     "core-js": "^3.6.5",
